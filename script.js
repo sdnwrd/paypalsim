@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const popupMessage = document.getElementById('popupMessage');
   
     // Erwartete Login-Daten
-    const correctEmail = 'mazdaroomiany@gmail.com';
+    const correctEmail = 'roomazda10@gmail.com';
     const correctPassword = 'mazdaroo10';
   
     // Tippgeschwindigkeit-Überwachung
