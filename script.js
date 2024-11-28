@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Erwartete Login-Daten
   const correctEmail = 'roomazda10@gmail.com';
-  const correctPassword = 'mazdaroo10!';
+  const correctPassword = 'mazdaroo10';
 
   // Tippgeschwindigkeit-Überwachung
   let lastKeyTime = 0;
