@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentTime = Date.now();
     if (lastKeyTime !== 0) {
       const timeDifference = currentTime - lastKeyTime;
-      if (timeDifference < 100) { // weniger als 500ms zwischen den Tastenanschlägen
+      if (timeDifference < 200) { // weniger als 500ms zwischen den Tastenanschlägen
         failedSpeedCheck = true;
       }
     }
